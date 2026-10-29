@@ -3,7 +3,7 @@
 import {
     Crypto as e,
     _ as t
-} from "cat.js";
+} from "./cat.js";
 let a, o, r, n, s, i, d, c, l, p, u, f = `${o}_3qys_B7k7Dt56Rn`;
 const _ = "function" == typeof js2Proxy && "function" == typeof desX && "function" != typeof getProxy,
     v = {
